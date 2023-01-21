@@ -239,8 +239,12 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+/.idea/
 /.idea/AI 4 Climate Bootcamp.iml
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+
+# ignore folder "Assignments" and all its content
+/Assignments/
