@@ -12,7 +12,7 @@ Welcome to the AI 4 Climate Bootcamp - Module 3: Deep Learning & TensorFlow! Thi
 
 ## Lessons Outline
 
-### Week 1: Introduction to Deep Learning and TensorFlow
+### [Week 1: Introduction to Deep Learning and TensorFlow](./Week%2001%20-%20Review%20and%20Intro%20to%20Deep%20Learning/)
 
 In the first week, we reviewed data science and machine learning concepts and tools, and we introduced deep learning concepts and basic TensorFlow syntax. We covered the following topics:
 
@@ -22,7 +22,7 @@ In the first week, we reviewed data science and machine learning concepts and to
 - Activation functions.
 - Loss functions and optimizers.
 
-### Week 2: Building User Interfaces and Reproducibility
+### [Week 2: Building User Interfaces and Reproducibility](./Week%2002%20-%20Optimization%20and%20Regularization/)
 
 In the second week, we went deeper into TensorFlow by learning about regularization techniques, building user interfaces for our models, and working on training monitoring and reproduction using Tensorboard. We covered the following topics:
 
@@ -31,5 +31,14 @@ In the second week, we went deeper into TensorFlow by learning about regularizat
 - Model reproducibility.
 - Training monitoring with Tensorboard.
 
+### [Week 3: Computer Vision](./Week%2003%20-%20Introduction%20to%20Computer%20Vision/)
+
+In the third week, we learned about computer vision and how to build models for image classification and object detection. We covered the following topics:
+
+- Introduction to computer vision.
+- Image classification using CNNs.
+- CNN optimization and regularization techniques.
+- Transfer learning.
+- Data pipelines.
 
 
