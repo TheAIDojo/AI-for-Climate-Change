@@ -42,3 +42,10 @@ In the third week, we learned about computer vision and how to build models for 
 - Data pipelines.
 
 
+### [Week 4: Introduction to Sequence Modelling](./Week%2004%20-%20Introduction%20to%20Sequence%20Modelling/)
+
+In the fourth week, we learned about sequence modelling and how to build models for text classification and forecasting. We covered the following topics:
+
+- Introduction to NLP.
+- Sequence modelling with Recurrent Neural Networks (RNNs).
+- Text Data Pipelines.
