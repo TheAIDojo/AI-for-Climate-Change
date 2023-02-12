@@ -49,3 +49,10 @@ In the fourth week, we learned about sequence modelling and how to build models 
 - Introduction to NLP.
 - Sequence modelling with Recurrent Neural Networks (RNNs).
 - Text Data Pipelines.
+
+### [Week 5: Advanced ML Applications](./Week%2005%20-%20Advanced%20ML%20Applications/)
+
+In the fifth week, we learned about advanced ML applications and how to build model and we covered the following topics:
+- Forecasting with RNNs.
+- Chatbots with Transformers.
+- Object Detection with YOLOv5.
