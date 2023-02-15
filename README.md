@@ -56,3 +56,5 @@ In the fifth week, we learned about advanced ML applications and how to build mo
 - Forecasting with RNNs.
 - Chatbots with Transformers.
 - Object Detection with YOLOv5.
+
+### [Week 6: Advanced TensorFlow](./Week%2006%20-%20Advanced%20TensorFlow/)

@@ -248,3 +248,6 @@ cython_debug/
 
 # ignore folder "Assignments" and all its content
 /Assignments/
+
+# ignore .vscode folder and all its content
+/.vscode/
